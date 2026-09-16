@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm a student, i'am learning computer science since one year.
 <!--
 **RenAdCode/RenAdCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
